@@ -13,13 +13,13 @@ considerations when the submit button is clicked
 
 Screenshots
 Image 1
-<img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
+<img src="https://github.com/Marchelo2005/Web-page-alerts/blob/main/img/Captura%20de%20pantalla%202024-06-18%20105835.png" width="100%">
 
 Image 2
-<img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
+<img src="https://github.com/Marchelo2005/Web-page-alerts/blob/main/img/Captura%20de%20pantalla%202024-06-18%20105927.png" width="100%">
 
 Image 3
-<img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
+<img src="https://github.com/Marchelo2005/Web-page-alerts/blob/main/img/Captura%20de%20pantalla%202024-06-18%20105949.png" width="100%">
 
 - What was our motivation? The motivation for this project was to put into practice what we have learned, as we see the basis of this intelliJ IDEA program with Java code.
 Why was this project built? This project was built in order to implement the new features, functions, and methods given in the theor
